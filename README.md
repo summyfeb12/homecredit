@@ -10,4 +10,5 @@ Possible points of reducing human dependence
 
 ## Some useful resources
 https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance
+
 https://www.kaggle.com/mlisovyi/lightgbm-hyperparameter-optimisation-lb-0-761
